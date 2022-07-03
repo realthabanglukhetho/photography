@@ -129,7 +129,7 @@ body {
 
 .homeheader {
     height: 100vh;
-    background-image: url('../img/16.jpg');
+    background-image: url('../img/16.JPG');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -534,7 +534,7 @@ div.rightfooter:hover p {
 
 .projheader {
     height: 100vh;
-    background-image: url('../img/22.jpg');
+    background-image: url('../img/22.JPG');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1346,7 +1346,7 @@ strong {
 
 .contactheader {
     height: 100vh;
-    background-image: url('../img/23.jpg');
+    background-image: url('../img/23.JPG');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1965,7 +1965,7 @@ strong {
 }
 
 .aboutimagebanner {
-    background-image: url('../img/17.jpg');
+    background-image: url('../img/17.JPG');
     background-position: center center;
     background-size: cover;
     width: 100%;
