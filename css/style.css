@@ -61,6 +61,10 @@ body {
     letter-spacing: 0.2vw;
     text-align: center;
 }
+
+
+
+
 .docudivconth2 {
     width: 100%;
     text-align: center;
@@ -454,7 +458,7 @@ div.containerfooterright {
     overflow: hidden;
 }
 .panoramifooter {
-    background-image: url('../img/potraits/simba_caos.jpg');
+    background-image: url('../img/kasilam/kopanong_1.JPG');
     background-size: cover;
     background-position: center;
 }
@@ -471,7 +475,7 @@ div.containerfooterright {
     overflow: hidden;
 }
 .ipsfooter {
-    background-image: ('../img/nature/mountain.JPG');
+    background-image: url('../img/nature/green_land.JPG');
     background-size: cover;
     background-position: center;
 }
@@ -1354,7 +1358,11 @@ strong {
 
 
 .contacth1 {
-    line-height: 3.5em;
+    line-height: 2.5em;
+}
+
+.contacth2 {
+    line-height: 5.5em;
 }
 
 .maillink {
